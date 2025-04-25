@@ -14,7 +14,4 @@
       "dest": "/index.html"
     }
   ],
-  "build": {
-    "env": {}
-  }
 }
